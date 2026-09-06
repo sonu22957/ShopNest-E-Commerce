@@ -1,0 +1,5 @@
+import shopnestPdf from "../assets/ShopNest.pdf";
+
+<a href={shopnestPdf} target="_blank" rel="noreferrer">
+    View ShopNest Presentation
+</a>
